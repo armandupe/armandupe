@@ -26,7 +26,8 @@ body {
   font-weight: var(--main-font-weight);
   line-height: var(--main-line-height);
   color: var(--main-dark-color);
-  background-color: var(--main-bright-color);
+  /* background-color: var(--main-bright-color); */
+  background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
 }
 
 a {
@@ -111,6 +112,13 @@ section {
   text-transform: uppercase;
   line-height: 1.2;
   color: var(--main-dark-color);
+  animation: title-anima 3s ease-in-out infinite;
+}
+
+@keyframes title-anima {
+  0% { text-shadow: none; }   
+  50% { text-shadow: 6px 1px var(--main-color); }
+  100% { text-shadow: none; }
 }
 
 nav.navbar {
@@ -167,6 +175,15 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
 
 .about-section .skill-item {
   margin-bottom: 20px;
+  transition: .3s;
+}
+
+.skill-item:hover .progress-title{
+  text-shadow: 1px 1px black;
+}
+
+.skill-item:hover .progress {
+  box-shadow: 3px 5px 9px -2px #000;
 }
 
 .about-section .progress-title {
@@ -178,6 +195,7 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
 .about-section .progress {
   height: 30px;
   border-radius: 0;
+  transition: .3s;
 }
 
 .about-section .progress .progress-bar {
@@ -615,4 +633,6 @@ select.form-control-lg:not([size]):not([multiple]) {
   max-width: 300px;
   max-height: 300px;
   border-radius: 100%;
+  box-shadow: 14px 13px 10px -1px var(--main-dark-color);
 }
+
