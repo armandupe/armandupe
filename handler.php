@@ -1,5 +1,5 @@
 <?
-if (isset($_POST))
+if (isset($_POST) && isset($_POST['message']))
 {
     $to = "symboli28@gmail.com";
     $subject = "Feedback";
