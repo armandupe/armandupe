@@ -15,12 +15,4 @@ Web Developer 💻
 <img align="left" src="/img/bitrix.png" width="62px" height="62px" alt="bitrix_icon">
 <br>
 
-### 📊 Github Stats
-
-<a href='https://github.com/armandupe/github-stats-transparent'>
-
-![Stats Overview](https://raw.githubusercontent.com/armandupe/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/armandupe/github-stats-transparent/output/generated/languages.svg)
-
-</a>
 <br>
