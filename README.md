@@ -2,6 +2,10 @@
 
 Web Developer 💻
 
+<a href="https://github.com/armandupe">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/armandupe?style=social"/>
+</a>
+
 ### 🔨 Languages and Tools:
 
 <img align="left" src="/img/html.png" width="62px" height="62px" alt="js_html">
@@ -16,7 +20,3 @@ Web Developer 💻
 <br>
 
 <br>
-
-<a href="https://github.com/armandupe">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/armandupe?style=social"/>
-</a>
