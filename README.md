@@ -20,3 +20,16 @@ Web Developer 💻
 <br>
 
 <br>
+
+## 🙋‍♂️ Connect with me
+
+<p align="center">
+    
+  <a href="https://dev.to/armandupe">
+    <img alt="Dev.to" title="armandupe Dev.to" height="62px" src="/img/devto.svg">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100055543860895">
+    <img alt="facebook" title="armandupe FB" height="62px" src="/img/fb.png">
+  </a>
+ 
+</p>
