@@ -25,7 +25,7 @@ Web Developer 💻
 
 ### 🙋‍♂️ Connect with me
 
-<p>
+<p style="margin-top: 20px;">
     
   <a href="https://www.facebook.com/profile.php?id=100055543860895">
     <img alt="facebook" title="armandupe FB" height="62px" src="/img/fb.png">
