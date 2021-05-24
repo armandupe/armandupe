@@ -8,6 +8,7 @@ Web Developer 💻
 
 ### 🔨 Languages and Tools:
 
+<p>   
 <a href="#"><img align="left" src="/img/html.png" width="62px" height="62px" alt="js_html"></a>
 <a href="#"><img align="left" src="/img/css.png" width="" height="62px" alt="js_css"></a>
 <a href="#"><img align="left" src="/img/sass.png" width="62px" height="62px" alt="js_sass"></a>
@@ -17,7 +18,9 @@ Web Developer 💻
 <a href="#"><img align="left" src="/img/vue.png" width="" height="62px" alt="vue_icon"></a>
 <a href="#"><img align="left" src="/img/php.png" width="" height="62px" alt="php_icon"></a>
 <a href="#"><img align="left" src="/img/bitrix.png" width="62px" height="62px" alt="bitrix_icon"></a>
+</p>
 
+<br>
 <br>
 
 ### 🙋‍♂️ Connect with me
