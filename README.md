@@ -16,3 +16,7 @@ Web Developer 💻
 <br>
 
 <br>
+
+<a href="https://github.com/armandupe">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/armandupe?style=social"/>
+</a>
