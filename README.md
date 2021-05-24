@@ -21,7 +21,7 @@ Web Developer 💻
 
 <br>
 
-## 🙋‍♂️ Connect with me
+### 🙋‍♂️ Connect with me
 
 <p>
     
