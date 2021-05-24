@@ -27,10 +27,10 @@ Web Developer 💻
 
 <p>
     
-  <a style="display:inline-block;margin-top:15px" href="https://www.facebook.com/profile.php?id=100055543860895">
+  <a href="https://www.facebook.com/profile.php?id=100055543860895">
     <img alt="facebook" title="armandupe FB" height="62px" src="/img/fb.png">
   </a>
-  <a style="display:inline-block;margin-top:15px" href="https://dev.to/armandupe">
+  <a href="https://dev.to/armandupe">
     <img alt="Dev.to" title="armandupe Dev.to" height="62px" src="/img/devto.svg">
   </a>
  
