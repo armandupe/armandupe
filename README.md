@@ -4,8 +4,6 @@ Web Developer 💻
 
 ### 🔨 Languages and Tools:
 
-![alt text](/img/js.png)
+<img src="/img/js.png" width="42px" height="42px" alt="js_icon">
 
 <br>
-
-
