@@ -4,7 +4,7 @@ Web Developer 💻
 
 ### 🔨 Languages and Tools:
 
-![alt text](/img/j.png)
+![alt text](/img/js.png)
 
 <br>
 
