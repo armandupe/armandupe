@@ -4,7 +4,7 @@ Web Developer 💻
 
 ### 🔨 Languages and Tools:
 
-![alt text](https://favpng.com/png_view/javascript-icon-png/XcfV8Zca)
+![alt text](/img/j.png)
 
 <br>
 
