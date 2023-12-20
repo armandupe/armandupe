@@ -16,8 +16,6 @@ Web Developer 💻
 <a href="#"><img align="left" src="/img/bootstrap.png" width="" height="62px" alt="js_bootstrap"></a>
 <a href="#"><img align="left" src="/img/js.png" width="62px" height="62px" alt="js_icon"></a>
 <a href="#"><img align="left" src="/img/vue.png" width="" height="62px" alt="vue_icon"></a>
-<a href="#"><img align="left" src="/img/php.png" width="" height="62px" alt="php_icon"></a>
-<a href="#"><img align="left" src="/img/bitrix.png" width="62px" height="62px" alt="bitrix_icon"></a>
 </p>
 
 <br>
